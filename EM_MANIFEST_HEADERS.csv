@@ -1,0 +1,40 @@
+﻿English Name,Starting Column,Field Length,Data Type,Excel Column
+Manifest Tracking Number,1,12,Alphanumeric,A
+Last Updated Date,13,8,Date (YYYYMMDD),B
+Shipped Date,21,8,Date (YYYYMMDD),C
+Received Date,29,8,Date (YYYYMMDD),D
+Manifest Status,37,20,Alphanumeric,E
+Submission Type,57,15,Alphanumeric,F
+Origin Type,72,10,Alphanumeric,G
+Generator EPA ID,82,15,Alphanumeric,H
+Generator Name,97,80,Alphanumeric,I
+Generator Mail Street Number,177,12,Alphanumeric,J
+Generator Mail Street 1,189,50,Alphanumeric,K
+Generator Mail Street 2,239,50,Alphanumeric,L
+Generator Mail City,289,25,Alphanumeric,M
+Generator Mail Zip,314,14,Alphanumeric,N
+Generator Mail State,328,2,Alphanumeric,O
+Generator Location Street Number,330,12,Alphanumeric,P
+Generator Location Street 1,342,50,Alphanumeric,Q
+Generator Location Street 2,392,50,Alphanumeric,R
+Generator Location City,442,25,Alphanumeric,S
+Generator Location Zip,467,14,Alphanumeric,T
+Generator Location State,481,2,Alphanumeric,U
+Generator Contact Company Name,483,80,Alphanumeric,V
+Designated Facility EPA ID,563,12,Alphanumeric,W
+Designated Facility Name,575,80,Alphanumeric,X
+Designated Facility Mail Street Number,655,12,Alphanumeric,Y
+Designated Facility Mail Street 1,667,50,Alphanumeric,Z
+Designated Facility Mail Street 2,717,50,Alphanumeric,AA
+Designated Facility Mail City,767,25,Alphanumeric,AB
+Designated Facility Mail Zip,792,14,Alphanumeric,AC
+Designated Facility Mail State,806,2,Alphanumeric,AD
+Designated Facility Location Street Number,808,12,Alphanumeric,AE
+Designated Facility Location Street 1,820,50,Alphanumeric,AF
+Designated Facility Location Street 2,870,50,Alphanumeric,AG
+Designated Facility Location City,920,25,Alphanumeric,AH
+Designated Facility Location Zip,945,14,Alphanumeric,AI
+Designated Facility Location State,959,2,Alphanumeric,AJ
+Designated Facility Contact Company Name,961,80,Alphanumeric,AK
+Manifest Residue Indicator,1041,1,Alphanumeric,AL
+Rejection Indicator,1042,1,Alphanumeric,AM
